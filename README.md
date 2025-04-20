@@ -26,11 +26,17 @@ pgsql
 Copy
 Edit
 /index.html              - Entry point, sets up the canvas and scripts
+
 /sketch.js               - p5.js core setup, draw loop, and game state handling
+
 /Board.js                - Board state, piece management, and game logic
+
 /Piece.js                - Definitions for all chess pieces and their movement rules
+
 /MinimaxFunctions.js     - Minimax algorithm and Alpha-Beta pruning logic
+
 /assets/                 - Images for chess pieces (make sure this is present)
+
 🚀 Getting Started
 Clone or download this repository.
 
